@@ -421,3 +421,4 @@ Community Track Pack 4 :: https://public.fightthe.pw/rehosts/ctp4/ :: caddy
 Community Track Pack 5 :: https://public.fightthe.pw/rehosts/ctp5/ :: caddy
 $ Community Track Pack 6 :: https://public.fightthe.pw/rehosts/ctp6/ :: caddy/proxy:https://www.youtube.com/watch?v=0qnYxeBclHc
 $ Community Track Pack 7 :: https://public.fightthe.pw/rehosts/ctp7/ :: caddy/proxy:https://youtu.be/NgWxblWx5rA
+Dream Theater - Outcry :: https://drive.google.com/drive/folders/1Xqs_MP5nqN0FPqEzZcxNSMy2L1aCzaPS
